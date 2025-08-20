@@ -5,7 +5,8 @@ import os
 # Set up
 stocks = {
     "AAPL": "Apple Inc.",
-    "ARKK": "ARK Innovation ETF"
+    "NVDA": "NVIDIA Corporation",
+    "TSLA": "Tesla, Inc.",
 }
 start_date = "2015-01-01"
 end_date = "2024-12-31"
